@@ -1,0 +1,100 @@
+{
+  "uuid": "88613add-e9af-4d19-bc51-d2a1c4b649bb",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "7b448d63-da56-43aa-974b-1be1cfa1d5d3",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 9,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 51,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 47,
+    "totalPvNBattleVictoryCount": 4,
+    "totalShinyCaptureCount": 1,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "electric": 3,
+      "water": 2,
+      "dragon": 1,
+      "ground": 2,
+      "steel": 1,
+      "rock": 1,
+      "normal": 1,
+      "flying": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:combee": 1,
+      "cobblemon:kakuna": 1,
+      "cobblemon:weedle": 1,
+      "cobblemon:zigzagoon": 1,
+      "cobblemon:butterfree": 3,
+      "cobblemon:skitty": 1,
+      "cobblemon:ledyba": 2,
+      "cobblemon:machop": 1,
+      "cobblemon:fletchling": 1,
+      "cobblemon:manectric": 1,
+      "cobblemon:glameow": 3,
+      "cobblemon:yungoos": 1,
+      "cobblemon:skiddo": 1,
+      "cobblemon:roselia": 1,
+      "cobblemon:shroomish": 1,
+      "cobblemon:krabby": 1,
+      "cobblemon:pyukumuku": 1,
+      "cobblemon:ampharos": 1,
+      "cobblemon:wooloo": 3,
+      "cobblemon:dolliv": 1,
+      "cobblemon:ponyta": 1,
+      "cobblemon:electrike": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:mareep": 2,
+      "cobblemon:igglybuff": 1,
+      "cobblemon:geodude": 1,
+      "cobblemon:phanpy": 1,
+      "cobblemon:litleo": 1,
+      "cobblemon:tadbulb": 1,
+      "cobblemon:bellibolt": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:mareep": [
+        "female"
+      ],
+      "cobblemon:psyduck": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:gible": [
+        "female"
+      ],
+      "cobblemon:combusken": [
+        "female"
+      ],
+      "cobblemon:flaaffy": [
+        "female"
+      ],
+      "cobblemon:aron": [
+        "female"
+      ],
+      "cobblemon:noctowl": [
+        "female"
+      ],
+      "cobblemon:pachirisu": [
+        "male"
+      ],
+      "cobblemon:froakie": [
+        "male"
+      ],
+      "cobblemon:frogadier": [
+        "male"
+      ],
+      "cobblemon:phanpy": [
+        "male"
+      ]
+    }
+  }
+}
