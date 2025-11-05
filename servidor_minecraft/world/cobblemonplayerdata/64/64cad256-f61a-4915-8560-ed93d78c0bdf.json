@@ -1,0 +1,131 @@
+{
+  "uuid": "64cad256-f61a-4915-8560-ed93d78c0bdf",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "72a0c1ec-13f7-4a8b-9493-e5f69e8dc39c",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 16,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 6,
+    "totalBattleVictoryCount": 54,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 47,
+    "totalPvNBattleVictoryCount": 7,
+    "totalShinyCaptureCount": 2,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "electric": 1,
+      "water": 2,
+      "fairy": 2,
+      "poison": 5,
+      "flying": 1,
+      "fire": 3,
+      "grass": 3,
+      "fighting": 1,
+      "dragon": 1,
+      "normal": 2,
+      "steel": 1,
+      "ghost": 2
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:psyduck": 4,
+      "cobblemon:capsakid": 1,
+      "cobblemon:goldeen": 1,
+      "cobblemon:houndour": 7,
+      "cobblemon:slowpoke": 2,
+      "cobblemon:chewtle": 1,
+      "cobblemon:ducklett": 1,
+      "cobblemon:mudbray": 1,
+      "cobblemon:combee": 1,
+      "cobblemon:patrat": 1,
+      "cobblemon:floatzel": 1,
+      "cobblemon:bombirdier": 2,
+      "cobblemon:phanpy": 2,
+      "cobblemon:drilbur": 1,
+      "cobblemon:litleo": 1,
+      "cobblemon:growlithe": 1,
+      "cobblemon:basculin": 1,
+      "cobblemon:gimmighoul": 1,
+      "cobblemon:kirlia": 1,
+      "cobblemon:torkoal": 1,
+      "cobblemon:heatmor": 1,
+      "cobblemon:mankey": 2,
+      "cobblemon:spearow": 1,
+      "cobblemon:corphish": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:mareep": [
+        "female"
+      ],
+      "cobblemon:buizel": [
+        "male"
+      ],
+      "cobblemon:snubbull": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:grovyle": [
+        "male"
+      ],
+      "cobblemon:flaaffy": [
+        "female"
+      ],
+      "cobblemon:zubat": [
+        "female"
+      ],
+      "cobblemon:magikarp": [
+        "female",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:gyarados": [
+        "female",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:golbat": [
+        "female"
+      ],
+      "cobblemon:scorbunny": [
+        "male"
+      ],
+      "cobblemon:raboot": [
+        "male"
+      ],
+      "cobblemon:togepi": [
+        "male"
+      ],
+      "cobblemon:weepinbell": [
+        "female"
+      ],
+      "cobblemon:quilava": [
+        "female"
+      ],
+      "cobblemon:budew": [
+        "male"
+      ],
+      "cobblemon:combusken": [
+        "female"
+      ],
+      "cobblemon:floatzel": [
+        "male"
+      ],
+      "cobblemon:cyclizar": [
+        "female"
+      ],
+      "cobblemon:honedge": [
+        "female"
+      ],
+      "cobblemon:gastly": [
+        "male"
+      ],
+      "cobblemon:sentret": [
+        "shiny",
+        "male"
+      ]
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "uuid": "f1d9f0bf-f390-4de8-98f2-79f16bdcc80c",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "9613efd0-44db-43b9-a4ae-ed92e992e9f1",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 5,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 23,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 16,
+    "totalPvNBattleVictoryCount": 7,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "ground": 2,
+      "rock": 1,
+      "normal": 1,
+      "fairy": 1,
+      "poison": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:patrat": 2,
+      "cobblemon:litleo": 1,
+      "cobblemon:zubat": 1,
+      "cobblemon:ponyta": 1,
+      "cobblemon:elekid": 1,
+      "cobblemon:stonjourner": 1,
+      "cobblemon:houndour": 1,
+      "cobblemon:geodude": 1,
+      "cobblemon:phanpy": 1,
+      "cobblemon:oddish": 1,
+      "cobblemon:woobat": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:rhyhorn": [
+        "female"
+      ],
+      "cobblemon:drilbur": [
+        "female"
+      ],
+      "cobblemon:marshtomp": [
+        "male"
+      ],
+      "cobblemon:eevee": [
+        "male"
+      ],
+      "cobblemon:togepi": [
+        "male"
+      ],
+      "cobblemon:nidoranm": [
+        "male"
+      ],
+      "cobblemon:nidorino": [
+        "male"
+      ],
+      "cobblemon:nidoking": [
+        "male"
+      ]
+    }
+  }
+}
